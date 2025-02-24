@@ -11,7 +11,9 @@
 	************************************************************************	
 	* File name: Covid_repro
 	* Author: Karsten Albæk 
-	* Reproduces tables in paper "The importance etc."
+	* Reproduces tables in paper "The importance of generalized trust for mortality and 
+	*   economic activity during the COVID-19 pandemic in Europe", Journal of Public Health, 
+	*   February 2025, https://link.springer.com/article/10.1007/s10389-025-02413-4 
 	* Data for reproduction: Trust_COVID_Europe.dta 
 	* 18-10-2024 Karsten Albæk
 	************************************************************************/
